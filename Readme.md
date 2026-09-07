@@ -18,6 +18,10 @@ This is not just a timer. This is a tool for mindfulness. No cluttered numbers, 
 
 ---
 
+
+**[⬇ Download Timeless.exe](https://github.com/ivanminakow-code/Timeless---a-simple-timer-with-a-minimalistic-design/releases/download/download/Timeless.exe)**
+
+
 ## How It Works
 
 1. Set your time.
